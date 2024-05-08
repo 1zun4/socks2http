@@ -19,7 +19,7 @@ This project is a SOCKS5 to HTTP proxy server written in Rust. It allows clients
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/socks2http.git
+   git clone https://github.com/1zun4/socks2http.git
    ```
 2. Navigate to the project directory:
    ```bash
